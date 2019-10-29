@@ -1,0 +1,2 @@
+# palina-life
+GitHub Pages
